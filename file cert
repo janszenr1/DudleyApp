@@ -1,0 +1,1 @@
+git config http.sslCAinfo "/path/to/ca-bundle.crt"
