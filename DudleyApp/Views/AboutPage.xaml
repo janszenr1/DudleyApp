@@ -30,7 +30,7 @@
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="0,0,0,0" Spacing="10">
-                <Label Text="Welcome to Dudley Construction!" FontSize="Title" HorizontalTextAlignment="Center"/>
+                <Label Text="Welcome to Dudley Construction" FontSize="Title" HorizontalTextAlignment="Center"/>
                 <Label Text="This is your resource for all of your employment needs" FontSize="16" Padding="0,0,0,0" HorizontalTextAlignment="Center"/>
                
                 <Button Margin="50,60,50,10" Text="Login"
